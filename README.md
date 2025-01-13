@@ -5,6 +5,7 @@
 1. Clonar el repositorio.
 2. Instalar las dependencias con `npm install`.
 3. Correr la aplicación con `npm run dev`.
+4. Abrir el navegador en la página `http://localhost:3000`
 
 ### Construir el proyecto para utilizar en producción
 
